@@ -1,5 +1,3 @@
-[{"id":47,"Nombre":"Plate Pie Foil","descripcion":"Pepper - Yellow Bell","precio":55},
-{"id":79,"Nombre":"Coffee Guatemala Dark","descripcion":"Icecream - Dibs","precio":67},
-{"id":7,"Nombre":"Bananas","descripcion":"Lid Tray - 16in Dome","precio":4},
-{"id":94,"Nombre":"Cheese - Mozzarella, Shredded","descripcion":"Cleaner - Bleach","precio":270},
-{"id":68,"Nombre":"Red Pepper Paste","descripcion":"Beef - Eye Of Round","precio":237}]
+[{"id":47,"Nombre":"Ryzen 5600X","descripcion":"Ryzen 5 5600X","precio":55},
+{"id":79,"Nombre":"Intel Core i5","descripcion":"Intel Core i5-10400","precio":67},
+{"id":7,"Nombre":"RAM 8 GB DDR4","descripcion":"KINGSTON HYPERX FURY X","precio":4}]
